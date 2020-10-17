@@ -3,3 +3,4 @@ Dies ist der Anfang meiner Textdatei!
 Sie wird für die Veranstaltung Maschine Learning & Big Data benotigt!
 Die Software "git" macht mir die Arbeit leichter.
 Wäre ich mit der aktuellen Version der Datei nicht zufrieden, könnte ich eine alte Version laden.
+Das erspart mir viel Arbeit.
